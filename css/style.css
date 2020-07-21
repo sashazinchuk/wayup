@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+.main-title {
+  color: red;
+}
+.main-description {
+  background-color: blue;
+  color: white;
+  width: 100px;
+  margin-bottom: 100px;
+}
+.add {
+  color: red;
+}
+.title {
+  background-color: green;
+  color: white;
+  padding: 10px 5px;
+}
+.pad {
+  padding: 40px 40px;
+}
+.pre-form {
+  padding-left: 100px;
+}
+.list {
+  border: 2px solid #000;
+  font-size: 24px;
+}
